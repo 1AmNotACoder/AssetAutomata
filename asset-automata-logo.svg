@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" width="480" height="120">
+
+  <!-- Icon: blue square with 4-grid pattern -->
+  <rect x="0" y="10" width="100" height="100" rx="12" fill="#2D5BE3"/>
+  <rect x="14" y="24" width="30" height="30" rx="3" fill="#FFFFFF"/>
+  <rect x="56" y="24" width="30" height="30" rx="3" fill="#FFFFFF" opacity="0.55"/>
+  <rect x="14" y="66" width="30" height="30" rx="3" fill="#FFFFFF" opacity="0.55"/>
+  <rect x="56" y="66" width="30" height="30" rx="3" fill="#FFFFFF" opacity="0.22"/>
+  <circle cx="71" cy="81" r="5" fill="#FFFFFF" opacity="0.9"/>
+
+  <!-- Wordmark: ASSET bold + rule + AUTOMATA mono -->
+  <text x="122" y="62"
+    font-family="Arial Black, sans-serif"
+    font-weight="900"
+    font-size="38"
+    letter-spacing="-1"
+    fill="#1A1E27">ASSET</text>
+
+  <rect x="122" y="70" width="215" height="1.5" fill="#D0D9E6"/>
+
+  <text x="123" y="94"
+    font-family="Courier New, monospace"
+    font-size="17"
+    letter-spacing="5.5"
+    fill="#6B7A94">AUTOMATA</text>
+
+</svg>
